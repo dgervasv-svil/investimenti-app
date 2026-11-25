@@ -1,0 +1,11 @@
+{
+  "gruppo": "Davide",
+  "profilo": "Davide Gervasio",
+  "autore": "By Davide Gervasio rev 1.1",
+  "data_salvataggio": "2026-11-22T10:00:00.000Z",
+  "strumenti": [
+    { "isin": "IT0005240830", "desc": "BTP 2026" },
+    { "isin": "DE0001102580", "desc": "Bund 10Y" },
+    { "isin": "IE00B4L5Y983", "desc": "MSCI World ETF" }
+  ]
+}

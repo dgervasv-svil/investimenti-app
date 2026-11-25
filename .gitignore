@@ -1,0 +1,15 @@
+# Ambienti e segreti (massima sicurezza)
+.env
+.env.local
+*.key
+*.pem
+
+# Dipendenze
+node_modules/
+
+# Log e cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "profilo": "Mario",
+  "autore": "By Davide Gervasio rev 1.1",
+  "data_salvataggio": "2026-11-23T10:05:00.000Z",
+  "note": "Profilo Mario con focus Titoli di Stato italiani",
+  "titoli": [
+    { "isin": "IT0005436693", "desc": "BTP Futura Nov 2028" },
+    { "isin": "IT0005518501", "desc": "BTP Italia Nov 2028" },
+    { "isin": "IT0005240830", "desc": "BTP 01/03/2026 0.25%" }
+  ]
+}
